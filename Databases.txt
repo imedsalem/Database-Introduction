@@ -1,0 +1,35 @@
+******Presenting each of the RDBMS and their functionalities******
+
+
+-MySQL : 
+
+MySQL is the most popular databases, according to DB Engines Ranking. It’s a definite leader among SQL solutions, used by Google, LinkedIn, Amazon, Netflix, Twitter, and others. MySQL popularity has been growing a lot because teams increasingly prefer open-source solutions instead of commercial ones.
+
+------------------------------------------------------------------
+-PostgreSQL : 
+
+A tried-and-proven relational database that is known for supporting a lot of data types, intuitive storage of schemaless data, and rich functionality. Some developers go even as far as to claim that it’s the most advanced open-source database on the market. We wouldn’t go that far, but it’s definitely a highly universal solution.
+
+------------------------------------------------------------------
+-SQL Server : 
+
+SQL Server is a commercial solution. It’s preferred by companies who are dealing with large traffic workloads on a regular basis. It’s also considered to be one of the most compatible systems with Windows services.
+
+The SQL Server infrastructure includes a lot of additional tools, like reporting services, integration systems, and analytics. For companies that manage multiple teams, these tools make a big difference in day-to-day work.
+
+-------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------
+******A comparison between the three RDBMS******
+
+Data Changes : 
+
+Among these three, SQL Server offers perhaps the most flexibility and efficiency, because it allows monitoring updated rows and columns, collecting errors, and automating the process. The difference between SQL Server and MySQL and Postgresql lies mainly in customizing the positions – SQL Server offers a lot more than others.
+
+Defragmentation :
+
+MySQL and SQL Server offer more of defragmentation methods that Postgresql does. They consume less CPU and provide more flexible settings.
+
+Data Queries : 
+
+If your priority is to save computing resources and storage, choose flexible solutions: the choice will be between MySQL vs SQL Server. However, if you prefer clear organization and long-term order, Postgre, with its isolated approach, might be a better fit.
+
